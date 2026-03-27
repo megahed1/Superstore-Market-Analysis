@@ -1,7 +1,11 @@
-<h1 align="center">📊 SuperStore Sales Performance Dashboard</h1>
+<h1 align="center">📊 SuperStore Market Analysis</h1>
 
 <p align="center">
-An interactive business intelligence dashboard analyzing sales performance, profitability, and customer behavior using the SuperStore dataset.
+An interactive dashboard analyzing sales performance, profitability, and customer segmentation.
+</p>
+
+<p align="center">
+  <img src="https://github.com/megahed1/Superstore-Market-Analysis/blob/main/Dashboard/Dashboard.png?raw=true" width="800">
 </p>
 
 <hr>
@@ -9,15 +13,15 @@ An interactive business intelligence dashboard analyzing sales performance, prof
 <h2>📌 Project Overview</h2>
 
 <p>
-This project delivers a comprehensive analysis of retail performance using an interactive dashboard.
-The goal is to uncover key business drivers, identify high-performing segments, and support data-driven decision-making.
+This project provides a comprehensive analysis of retail data using the SuperStore dataset.
+It focuses on uncovering key insights related to sales performance, profitability, and customer behavior.
 </p>
 
 <ul>
-  <li>Analyze total sales and profitability</li>
-  <li>Identify top-performing regions and products</li>
-  <li>Understand customer segments behavior</li>
-  <li>Detect underperforming areas</li>
+  <li>Analyze total sales and profit performance</li>
+  <li>Identify top-performing regions and states</li>
+  <li>Understand customer segments contribution</li>
+  <li>Evaluate category and product-level performance</li>
 </ul>
 
 <hr>
@@ -49,30 +53,33 @@ The goal is to uncover key business drivers, identify high-performing segments, 
 <h2>💡 Key Insights</h2>
 
 <ul>
-  <li>🚀 California generates the highest sales across all states.</li>
-  <li>👥 Consumer segment contributes over 50% of total revenue.</li>
-  <li>💻 Technology is the leading category in profitability.</li>
-  <li>🌍 West region outperforms other regions in sales.</li>
-  <li>⚠️ بعض المنتجات تحقق مبيعات عالية ولكن بهوامش ربح منخفضة.</li>
+  <li>🚀 California generates the highest sales among all states.</li>
+  <li>👥 Consumer segment contributes more than 50% of total revenue.</li>
+  <li>💻 Technology leads in overall profitability.</li>
+  <li>🌍 West region is the top-performing region.</li>
+  <li>⚠️ Some products achieve high sales but low profit margins.</li>
 </ul>
 
 <hr>
 
-<h2>📈 Business Impact</h2>
+<h2>📁 Repository Structure</h2>
 
 <ul>
-  <li>Improved visibility on high-performing markets</li>
-  <li>Supports strategic decisions for product focus</li>
-  <li>Highlights profit leakage areas</li>
+  <li><b>Dashboard/</b> → Contains dashboard images</li>
+  <li><b>Icons/</b> → Dashboard icons and visual assets</li>
+  <li><b>SuperStore Analysis.xlsx</b> → Final dashboard & analysis</li>
+  <li><b>SuperStore row data.xlsx</b> → Raw dataset</li>
+  <li><b>README.md</b> → Project documentation</li>
 </ul>
 
 <hr>
 
-<h2>📁 Project Structure</h2>
+<h2>📈 Business Value</h2>
 
 <ul>
-  <li><b>SuperStore Analysis.xlsx</b> → Dashboard & Analysis</li>
-  <li><b>Dashboard.png</b> → Dashboard Preview</li>
+  <li>Supports data-driven decision making</li>
+  <li>Identifies high-performing markets and segments</li>
+  <li>Highlights profitability gaps for optimization</li>
 </ul>
 
 <hr>
